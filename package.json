@@ -1,0 +1,14 @@
+{
+  "name": "kushagra_week7_dsastats",
+  "version": "1.0.0",
+  "description": "Basic node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kushagra Upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
